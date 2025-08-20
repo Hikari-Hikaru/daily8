@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>2025年9月25日 - 9月ももう後半</title>
+  <title>2025年10月1日 - 10月スタート！</title>
   <link rel="stylesheet" href="../style.css"> <!-- 共通CSSの読み込み -->
 </head>
 <body>
@@ -35,10 +35,13 @@
      青いチェックマークは申請しないことにしましたw<br>
       アカウントは下記のとおりです！<br>
       よろしくお願いします👍<br>
-      <br><br>
+      <br>
       <a href="https://x.com/_HKR_Official" target="_blank" rel="noopener noreferrer">
   X（@ _HKR_Official）へ
-</a>
-<br><br>
+</a><br>
+HIKARIHIKARUのブログは消しませんが、これからはXで投稿していく予定です！
+<br>
+よろしく願いします！<br>
+<br>
     </p>
   </main>
